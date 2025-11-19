@@ -1,1 +1,1 @@
-export const serverUrl = import.meta.env.VITE_SERVER_URL || "http://localhost:5001/api";
+export const serverUrl = import.meta.env.VITE_SERVER_URL || "https://url-shortner-server-app-gcun.onrender.com";
